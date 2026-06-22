@@ -98,11 +98,11 @@ Full methodology, per-class precision/recall, cost, and latency in
 
 ```
 MSC Labs (2026). Zeus: a QLoRA-tuned Gemma-2-2B intent router.
-Reference model. https://msc-labs-ai.vercel.app
+Reference model. https://labs.msccompany.com.br
 ```
 
 ---
 
 > Reference model by **MSC Labs** — done-for-you custom model training.
-> Want this for your task? → Book a free model audit: https://msc-labs-ai.vercel.app/assessment
+> Want this for your task? → Book a free model audit: https://labs.msccompany.com.br/assessment
 > Numbers are illustrative reference results from our standard eval harness.

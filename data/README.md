@@ -68,4 +68,4 @@ All content is fictional but believable, framed as illustrative reference data.
 ---
 
 > Reference model by **MSC Labs** — done-for-you custom model training.
-> Want this for your task? → Book a free model audit: https://msc-labs-ai.vercel.app/assessment
+> Want this for your task? → Book a free model audit: https://labs.msccompany.com.br/assessment
