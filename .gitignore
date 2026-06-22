@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML artifacts / checkpoints
+outputs/
+checkpoints/
+runs/
+wandb/
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.gguf
+
+# Adapters / merged weights (not distributed)
+adapter_model*/
+merged_model*/
+
+# Datasets (full corpus not distributed; only data/sample.jsonl is committed)
+data/*.jsonl
+!data/sample.jsonl
+data/train.jsonl
+data/val.jsonl
+data/test.jsonl
+
+# HF / cache
+.cache/
+.huggingface/
+
+# Env / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

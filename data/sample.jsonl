@@ -1,0 +1,15 @@
+{"message": "I was charged twice for my subscription this month, can you refund one of the charges?", "intent": "billing", "confidence": 0.99}
+{"message": "Where do I update the credit card on file? The old one expired.", "intent": "billing", "confidence": 0.97}
+{"message": "The app crashes every time I try to upload a photo on Android 14.", "intent": "technical_support", "confidence": 0.98}
+{"message": "Getting a 500 error when I hit the export button, started this morning.", "intent": "technical_support", "confidence": 0.98}
+{"message": "What's the difference between the Pro and Enterprise plans? We're a 40-person team.", "intent": "sales", "confidence": 0.96}
+{"message": "Can I book a demo to see the analytics dashboard before we commit?", "intent": "sales", "confidence": 0.97}
+{"message": "I can't log in — it keeps saying my password is wrong even after I reset it.", "intent": "account", "confidence": 0.96}
+{"message": "Please add my coworker as an admin on our workspace.", "intent": "account", "confidence": 0.94}
+{"message": "My order #48213 was supposed to arrive yesterday, where is it?", "intent": "order_status", "confidence": 0.98}
+{"message": "Can I get a tracking number for the package I bought last Tuesday?", "intent": "order_status", "confidence": 0.97}
+{"message": "Just wanted to say your support team was fantastic, really made my week.", "intent": "feedback", "confidence": 0.95}
+{"message": "It would be great if you added a dark mode to the mobile app someday.", "intent": "feedback", "confidence": 0.93}
+{"message": "I need to dispute a charge and also my account was accessed from a device I don't recognize — this is urgent.", "intent": "escalate_human", "confidence": 0.88}
+{"message": "asdfgh test test ignore this", "intent": "other", "confidence": 0.91}
+{"message": "Hi there!", "intent": "other", "confidence": 0.86}
